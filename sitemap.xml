@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://avdata99.github.io/test-mkdocs/</loc>
+         <lastmod>2022-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avdata99.github.io/test-mkdocs/test-page/</loc>
+         <lastmod>2022-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avdata99.github.io/test-mkdocs/about/about/</loc>
+         <lastmod>2022-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avdata99.github.io/test-mkdocs/about/license/</loc>
+         <lastmod>2022-09-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
